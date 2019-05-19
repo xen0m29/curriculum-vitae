@@ -1,0 +1,151 @@
+{
+    "name": "Burhanudin Dwi Prakoso",
+    "experience": [
+        {
+            "name": "Web Developer",
+            "company": "Self Employed",
+            "start": 2013,
+            "end": 2014,
+            "description": "Providing a system that can manage data related to land in one area in Indonesia."
+        },
+        {
+            "name": "Frontend Web Developer",
+            "company": "PT. Gits Solution",
+            "start": 2016,
+            "end": 2016,
+            "description": "Implementing desktop and mobile designs that have been made by UI designers into HTML and Javascript forms. The application that I made is intended for a child care community that is directly sponsored by one of the telecommunications provider in Indonesia."
+        },
+        {
+            "name": "Full Stack Developer",
+            "company": "Self Employed",
+            "start": 2016,
+            "end": 2016,
+            "description": "Provide a system to monitor blood donors and remind donors via short message to immediately come to a designated place to donate blood."
+        },
+        {
+            "name": "Full Stack Developer",
+            "company": "CRR Security",
+            "start": 2016,
+            "end": 2017,
+            "description": "Create several applications that run on web and mobile platforms. In addition to creating applications that interact directly with users, I also made an implementation of the concepts that have been made by CTOs on the backend side."
+        },
+        {
+            "name": "Full Stack Developer",
+            "company": "Self Employed",
+            "start": 2017,
+            "end": 2017,
+            "description": "Provide two mobile applications, where the first aims to monitor the blind by the family concerned and the second aims to activate the alarm on the cellphone if Arduino gets a predetermined value if the blind person passes a hole, will hit a wall, and others."
+        },
+        {
+            "name": "Project Manager",
+            "company": "CRR Security",
+            "start": 2018,
+            "end": 2019,
+            "description": "Make plans for developing several applications for a team. Then, managing dynamic application processing time, such as adding features, fixing problems, and optimizing. In order for the processing time to be efficient, every two days a discussion will be held together with the team."
+        }
+    ],
+    "contact": [
+        {
+            "name": "LinkedIn",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/burhanudin-dwi-p-8265b7157/"
+        },
+        {
+            "name": "E-mail",
+            "icon": "envelope",
+            "link": "burhandwi.p@gmail.com"
+        }
+    ],
+    "projects": [
+
+    ],
+    "skills": [
+        {
+            "name": "Javascript",
+            "value": 4,
+            "icon": "js-square"
+        },
+        {
+            "name": "ReactJS",
+            "value": 4,
+            "icon": "react"
+        },
+        {
+            "name": "React Native",
+            "value": 4,
+            "icon": "react"
+        },
+        {
+            "name": "Cascading Style Sheet",
+            "value": 4,
+            "icon": "css3"
+        },
+        {
+            "name": "PHP",
+            "value": 4,
+            "icon": "php"
+        },
+        {
+            "name": "NodeJS",
+            "value": 3,
+            "icon": "node"
+        },
+        {
+            "name": "Python",
+            "value": 3,
+            "icon": "python"
+        },
+        {
+            "name": "Android",
+            "value": 3,
+            "icon": "android"
+        },
+        {
+            "name": "Kotlin",
+            "value": 3,
+            "icon": "korvue"
+        }
+    ],
+    "education": [
+        {
+            "name": "Technical Information",
+            "level": "Bachelor Degree ",
+            "school": "Amikom University",
+            "start": 2013,
+            "end": 2016
+        },
+        {
+            "name": "Computer Science",
+            "level": "Master Degree",
+            "school": "Amikom University",
+            "start": 2017,
+            "end": "present"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Membangun Progressive Web Apps",
+            "company": "Dicoding",
+            "start": 2019,
+            "end": 2021
+        },
+        {
+            "name": "Menjadi Azure Cloud Developer",
+            "company": "Dicoding",
+            "start": 2019,
+            "end": 2021
+        }
+    ],
+    "specialization": [
+        {
+            "name": "Full Stack Developer",
+            "primary": true
+        },
+        {
+            "name": "Project Manager"
+        },
+        {
+            "name": "Data Scientist"
+        }
+    ]
+}
