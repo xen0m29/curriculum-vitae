@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curriculum-vitae/static/css/main.34de6062.chunk.css",
+    "main.js": "/curriculum-vitae/static/js/main.67c01f07.chunk.js",
+    "main.js.map": "/curriculum-vitae/static/js/main.67c01f07.chunk.js.map",
+    "runtime~main.js": "/curriculum-vitae/static/js/runtime~main.b003f3c4.js",
+    "runtime~main.js.map": "/curriculum-vitae/static/js/runtime~main.b003f3c4.js.map",
+    "static/js/2.ceef510d.chunk.js": "/curriculum-vitae/static/js/2.ceef510d.chunk.js",
+    "static/js/2.ceef510d.chunk.js.map": "/curriculum-vitae/static/js/2.ceef510d.chunk.js.map",
+    "index.html": "/curriculum-vitae/index.html",
+    "precache-manifest.ce94791cabfcae7c9417b346c4a2725b.js": "/curriculum-vitae/precache-manifest.ce94791cabfcae7c9417b346c4a2725b.js",
+    "service-worker.js": "/curriculum-vitae/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/curriculum-vitae/static/css/main.34de6062.chunk.css.map"
+  }
+}
